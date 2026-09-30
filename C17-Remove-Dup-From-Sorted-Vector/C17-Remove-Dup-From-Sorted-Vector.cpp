@@ -77,9 +77,9 @@ void experiment03() {
 //-----------------------------------------------------------------------
 int main()
 {
-	//experiment01();
+	experiment01();
 	//experiment02();
-	experiment03();
+	//experiment03();
 
 	cout << "\nAll done!\n";
 }
